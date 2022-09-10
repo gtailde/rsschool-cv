@@ -30,8 +30,8 @@ function myFunction(p1, p2) {
 
 *Nothing yet…* 
 
-#Languages:
+# Languages:
 
- *Ukrainian - native speaker
- *Russian - fluent
- *English - A2 (B1 in process...)
+ * Ukrainian - native speaker
+ * Russian - fluent
+ * English - A2 (B1 in process...)
