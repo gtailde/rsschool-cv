@@ -12,6 +12,7 @@
  in **front-end** development.
 
  # Skills and education:
+ 
  * [HTML](https://www.youtube.com/watch?v=DOEtVdkKwcU&feature=share&si=ELPmzJkDCLju2KnD5oyZMQ)
  * [CSS](https://www.youtube.com/watch?v=SpCUuyZZTp8&feature=share&si=ELPmzJkDCLju2KnD5oyZMQ)
  * [JavaScript (in process)](https://www.youtube.com/watch?v=Bluxbh9CaQ0&feature=share&si=ELPmzJkDCLju2KnD5oyZMQ)
