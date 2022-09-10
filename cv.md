@@ -1,12 +1,12 @@
 # Oleh Nepiuk
 
-# My contact Info:
+# My contact info:
 
  * E-mail: gtailde@gmail.com
  * GitHub: [gtailde](https://github.com/gtailde)
  * Telegram: [t.me](https://t.me/gtailde)
 
-# About Me:
+# About me:
 
  * I am 18 years old, currently studying in the 1st year of university. I recently decided to start learinig programming, and my main goal is to gain knowledge 
  in **front-end** development.
@@ -18,11 +18,11 @@
  * [Python](https://www.coursera.org/specializations/python)
  * [Git/GitHub](https://www.youtube.com/watch?v=zZBiln_2FhM&feature=share&si=ELPmzJkDCLju2KnD5oyZMQ)
 
-# Code Example:
+# Code example:
 
 ```
 function myFunction(p1, p2) {
-  return p1 * p2;   // The function returns the product of p1 and p2
+  return p1 * p2;   
 }
 ```
 
