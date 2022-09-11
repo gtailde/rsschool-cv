@@ -4,7 +4,7 @@ body{
     font-weight: normal ;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: black;    
-    max-width: 800px;
+    max-width: 700px;
     margin: auto;
 
 }
@@ -89,6 +89,12 @@ h1{
     margin-bottom: 20px;
 }
 
+@media(max-width: 700px) {
+    .me { 
+        display: block;
+        text-align: center;
+    }
+}
 
 .Languages{
     background-color: lightblue;
