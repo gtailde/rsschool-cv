@@ -1,1 +1,1 @@
-# [rsschool-cv](https://gtailde.github.io/rsschool-cv/)
+https://gtailde.github.io/rsschool-cv/cv
